@@ -1,6 +1,4 @@
 import React from 'react';
-import PropTypes from'prop-types';
-
 
 class ProjectList extends React.Component { 
     render() {
